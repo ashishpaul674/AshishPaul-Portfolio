@@ -7,3 +7,5 @@ some files updated
 all section creted separatly
 
 in experience section some updated done
+
+CompTIA A+ updated
